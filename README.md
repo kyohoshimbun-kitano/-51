@@ -5,7 +5,6 @@
 <meta charset="UTF-8">
 <meta name=”description” content="noindex,nofollow">
 <link rel="stylesheet" type="text/css" href="sample.css">
-<title>kitano gensoshimbun </title>
 </head>
 
 <body>
